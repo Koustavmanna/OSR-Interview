@@ -1,0 +1,11 @@
+You are an expert systems thinker. Convert the goal below into OSR JSON only.
+
+Keys required:
+- primaryOutcome
+- performanceTargets
+- supportOutcomes
+- flowRates
+- milestones
+
+Goal:
+{description}
